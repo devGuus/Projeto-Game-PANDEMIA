@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: 26b92711aa7f7df40ba857dbd7ba76c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4476612882693700235
+    second: GihArt_0
+  - first:
+      213: 5423229738302963177
+    second: GihArt_1
+  - first:
+      213: 1243173344331986557
+    second: GihArt_2
+  - first:
+      213: -5692668276417128689
+    second: GihArt_3
+  - first:
+      213: 3594353320788821583
+    second: GihArt_4
+  - first:
+      213: 5731223459530461697
+    second: GihArt_5
+  - first:
+      213: 5435749138718695621
+    second: GihArt_6
+  - first:
+      213: 4405113799214496934
+    second: GihArt_7
+  - first:
+      213: 1304065224254008395
+    second: GihArt_8
+  - first:
+      213: -2999324176750620893
+    second: GihArt_9
+  - first:
+      213: 23772950561595196
+    second: GihArt_10
+  - first:
+      213: 3670422687005696470
+    second: GihArt_11
+  - first:
+      213: 7044638830912243784
+    second: GihArt_12
+  - first:
+      213: -3174356920801932912
+    second: GihArt_13
+  - first:
+      213: 1200349535028343824
+    second: GihArt_14
+  - first:
+      213: 5654615562360663826
+    second: GihArt_15
+  - first:
+      213: -3382349860629604890
+    second: GihArt_16
+  - first:
+      213: -8638816576539365241
+    second: GihArt_17
+  - first:
+      213: 8199424379632620271
+    second: GihArt_18
+  - first:
+      213: -3516875635917351839
+    second: GihArt_19
+  - first:
+      213: 2853982812791368225
+    second: GihArt_20
+  - first:
+      213: -458853878658821333
+    second: GihArt_21
+  - first:
+      213: 8225966742378699111
+    second: GihArt_22
+  - first:
+      213: 3147937469317272068
+    second: GihArt_23
+  - first:
+      213: -7735868889882167855
+    second: GihArt_24
+  - first:
+      213: 1773773374623819335
+    second: GihArt_25
+  - first:
+      213: -5112706048281346949
+    second: GihArt_26
+  - first:
+      213: -9002666629215556048
+    second: GihArt_27
+  - first:
+      213: 6397598488210946976
+    second: GihArt_28
+  - first:
+      213: -6908536087640656243
+    second: GihArt_29
+  - first:
+      213: 814502760958176934
+    second: GihArt_30
+  - first:
+      213: -2056495994153068080
+    second: GihArt_31
+  - first:
+      213: -6188202019287614020
+    second: GihArt_32
+  - first:
+      213: -6646907715052446841
+    second: GihArt_33
+  - first:
+      213: -3397811607363640586
+    second: GihArt_34
+  - first:
+      213: -2452705584063624332
+    second: GihArt_35
+  - first:
+      213: -8017429777947286663
+    second: GihArt_36
+  - first:
+      213: -7704067291845324740
+    second: GihArt_37
+  - first:
+      213: -7351447452811441682
+    second: GihArt_38
+  - first:
+      213: -7880825749801082373
+    second: GihArt_39
+  - first:
+      213: -5083148768152948086
+    second: GihArt_40
+  - first:
+      213: -8507470249792664816
+    second: GihArt_41
+  - first:
+      213: 7868608223744294876
+    second: GihArt_42
+  - first:
+      213: -5623850667738396984
+    second: GihArt_43
+  - first:
+      213: 7720267369610536496
+    second: GihArt_44
+  - first:
+      213: 5311374465184864060
+    second: GihArt_45
+  - first:
+      213: 520159520858238953
+    second: GihArt_46
+  - first:
+      213: 5793029415070914519
+    second: GihArt_47
+  - first:
+      213: 6460094469253822074
+    second: GihArt_48
+  - first:
+      213: -5716551061192644436
+    second: GihArt_49
+  - first:
+      213: 7555138845861460796
+    second: GihArt_50
+  - first:
+      213: 3947418543477594095
+    second: GihArt_51
+  - first:
+      213: 3229335147079074012
+    second: GihArt_52
+  - first:
+      213: -4376275091667202594
+    second: GihArt_53
+  - first:
+      213: 4900812046450975669
+    second: GihArt_54
+  - first:
+      213: -1881498854196121676
+    second: GihArt_55
+  - first:
+      213: -7266337895323034070
+    second: GihArt_56
+  - first:
+      213: 850552628905823629
+    second: GihArt_57
+  - first:
+      213: 7763084541376222720
+    second: GihArt_58
+  - first:
+      213: -1215217542533450488
+    second: GihArt_59
+  - first:
+      213: -4122999520146598381
+    second: GihArt_60
+  - first:
+      213: -6522521387386683837
+    second: GihArt_61
+  - first:
+      213: -3733343921300401407
+    second: GihArt_62
+  - first:
+      213: 7985046381995197968
+    second: GihArt_63
+  - first:
+      213: -2867865372331105073
+    second: GihArt_64
+  - first:
+      213: -8462880812567904113
+    second: GihArt_65
+  - first:
+      213: 7840097146286271119
+    second: GihArt_66
+  - first:
+      213: 4747447846503558846
+    second: GihArt_67
+  - first:
+      213: 7788229607101432101
+    second: GihArt_68
+  - first:
+      213: -1557034599972711115
+    second: GihArt_69
+  - first:
+      213: 533587137389339685
+    second: GihArt_70
+  - first:
+      213: -4712050988586416757
+    second: GihArt_71
+  - first:
+      213: 4100144108095946827
+    second: GihArt_72
+  - first:
+      213: -2053053573800593126
+    second: GihArt_73
+  - first:
+      213: 2036187627834955958
+    second: GihArt_74
+  - first:
+      213: 2954163591527156741
+    second: GihArt_75
+  - first:
+      213: -1436819798194508303
+    second: GihArt_76
+  - first:
+      213: -2950926521051366460
+    second: GihArt_77
+  - first:
+      213: 5902704740800475147
+    second: GihArt_78
+  - first:
+      213: -3802865573162696370
+    second: GihArt_79
+  - first:
+      213: 4623976123356101130
+    second: GihArt_80
+  - first:
+      213: -1347551637957856327
+    second: GihArt_81
+  - first:
+      213: -8237185767605454181
+    second: GihArt_82
+  - first:
+      213: -1300425425827681843
+    second: GihArt_83
+  - first:
+      213: -9168055788083287203
+    second: GihArt_84
+  - first:
+      213: 7454466524907337318
+    second: GihArt_85
+  - first:
+      213: -1461298315385556171
+    second: GihArt_86
+  - first:
+      213: -2850460658868049786
+    second: GihArt_87
+  - first:
+      213: -8232250476189189070
+    second: GihArt_88
+  - first:
+      213: -3853360464598465961
+    second: GihArt_89
+  - first:
+      213: 3278768684722154659
+    second: GihArt_90
+  - first:
+      213: 125816639175414187
+    second: GihArt_91
+  - first:
+      213: -6414194655654428140
+    second: GihArt_92
+  - first:
+      213: -7686951867032360879
+    second: GihArt_93
+  - first:
+      213: -3591193545040600941
+    second: GihArt_94
+  - first:
+      213: -8126027737249400985
+    second: GihArt_95
+  - first:
+      213: -2498066990488010253
+    second: GihArt_96
+  - first:
+      213: 6268545041637401404
+    second: GihArt_97
+  - first:
+      213: 4014286041647971391
+    second: GihArt_98
+  - first:
+      213: -291033448763654035
+    second: GihArt_99
+  - first:
+      213: 3727908591153456345
+    second: GihArt_100
+  - first:
+      213: -2927067759850586238
+    second: GihArt_101
+  - first:
+      213: 2528463195883108944
+    second: GihArt_102
+  - first:
+      213: -1968955632401439357
+    second: GihArt_103
+  - first:
+      213: 8166999883712581789
+    second: GihArt_104
+  - first:
+      213: -8862854727251252150
+    second: GihArt_105
+  - first:
+      213: -2509305054380755218
+    second: GihArt_106
+  - first:
+      213: -7721597025592348064
+    second: GihArt_107
+  - first:
+      213: -3195453335489427802
+    second: GihArt_108
+  - first:
+      213: -4240787678710985142
+    second: GihArt_109
+  - first:
+      213: 5510004842507736614
+    second: GihArt_110
+  - first:
+      213: 8643636484946855344
+    second: GihArt_111
+  - first:
+      213: -2900872579124937822
+    second: GihArt_112
+  - first:
+      213: -4834622176152286677
+    second: GihArt_113
+  - first:
+      213: -8052840588225626359
+    second: GihArt_114
+  - first:
+      213: -2343244038019001517
+    second: GihArt_115
+  - first:
+      213: -7688996512172505244
+    second: GihArt_116
+  - first:
+      213: 1712815199048169802
+    second: GihArt_117
+  - first:
+      213: -5182034024422161369
+    second: GihArt_118
+  - first:
+      213: -1301873387179481080
+    second: GihArt_119
+  - first:
+      213: -4182550793085642539
+    second: GihArt_120
+  - first:
+      213: -7139557559320132248
+    second: GihArt_121
+  - first:
+      213: -622921900604021918
+    second: GihArt_122
+  - first:
+      213: -9037335456577867558
+    second: GihArt_123
+  - first:
+      213: 101137595058236786
+    second: GihArt_124
+  - first:
+      213: 6414625713205111430
+    second: GihArt_125
+  - first:
+      213: 3481470314650541778
+    second: GihArt_126
+  - first:
+      213: 3687252870207492564
+    second: GihArt_127
+  - first:
+      213: -9169866597082758350
+    second: GihArt_128
+  - first:
+      213: 3759595334761142752
+    second: GihArt_129
+  - first:
+      213: -7147973043358056461
+    second: GihArt_130
+  - first:
+      213: -5004912454080610366
+    second: GihArt_131
+  - first:
+      213: -1727888302213090702
+    second: GihArt_132
+  - first:
+      213: -5280476089391741089
+    second: GihArt_133
+  - first:
+      213: -4611603235592679446
+    second: GihArt_134
+  - first:
+      213: 7143148151649991262
+    second: GihArt_135
+  - first:
+      213: 6992045863056787008
+    second: GihArt_136
+  - first:
+      213: -428173447699957230
+    second: GihArt_137
+  - first:
+      213: 57842187146606227
+    second: GihArt_138
+  - first:
+      213: 4702470385987215809
+    second: GihArt_139
+  - first:
+      213: 1226110881802196989
+    second: GihArt_140
+  - first:
+      213: 2246432316925251284
+    second: GihArt_141
+  - first:
+      213: -114484524116366945
+    second: GihArt_142
+  - first:
+      213: 5193752285046589239
+    second: GihArt_143
+  - first:
+      213: -1004896268863305547
+    second: GihArt_144
+  - first:
+      213: -4004606107592926566
+    second: GihArt_145
+  - first:
+      213: 1148795930786004466
+    second: GihArt_146
+  - first:
+      213: 9105111120452775968
+    second: GihArt_147
+  - first:
+      213: -578378506229503161
+    second: GihArt_148
+  - first:
+      213: -1648225499826696313
+    second: GihArt_149
+  - first:
+      213: -3193494613047140501
+    second: GihArt_150
+  - first:
+      213: 340975903453736786
+    second: GihArt_151
+  - first:
+      213: 5947563046188490200
+    second: GihArt_152
+  - first:
+      213: 4372028719405418176
+    second: GihArt_153
+  - first:
+      213: 3386518908001282674
+    second: GihArt_154
+  - first:
+      213: -8620382248475927131
+    second: GihArt_155
+  - first:
+      213: 8286677818981084425
+    second: GihArt_156
+  - first:
+      213: -868856113642426042
+    second: GihArt_157
+  - first:
+      213: 2542767701507691939
+    second: GihArt_158
+  - first:
+      213: -8173865265923974274
+    second: GihArt_159
+  - first:
+      213: 5470124558118053531
+    second: GihArt_160
+  - first:
+      213: -6222683765257632676
+    second: GihArt_161
+  - first:
+      213: -1274190693014828617
+    second: GihArt_162
+  - first:
+      213: -2046862636378832756
+    second: GihArt_163
+  - first:
+      213: -7249765706298716649
+    second: GihArt_164
+  - first:
+      213: -2008154249991027892
+    second: GihArt_165
+  - first:
+      213: 4852527248968204059
+    second: GihArt_166
+  - first:
+      213: -2559659281251690029
+    second: GihArt_167
+  - first:
+      213: 4652892551496694746
+    second: GihArt_168
+  - first:
+      213: 5982651837899918588
+    second: GihArt_169
+  - first:
+      213: -84863459707633483
+    second: GihArt_170
+  - first:
+      213: 7903047468380314147
+    second: GihArt_171
+  - first:
+      213: 6206726916710422949
+    second: GihArt_172
+  - first:
+      213: -2730472878055105805
+    second: GihArt_173
+  - first:
+      213: 1571806460052656246
+    second: GihArt_174
+  - first:
+      213: -1975747215026656823
+    second: GihArt_175
+  - first:
+      213: 804494443799213668
+    second: GihArt_176
+  - first:
+      213: -5269545232946620073
+    second: GihArt_177
+  - first:
+      213: 8305445590125261091
+    second: GihArt_178
+  - first:
+      213: -1418604335128488523
+    second: GihArt_179
+  - first:
+      213: -1857708250738969590
+    second: GihArt_180
+  - first:
+      213: 1207251880433459665
+    second: GihArt_181
+  - first:
+      213: -5147051652918929832
+    second: GihArt_182
+  - first:
+      213: 2428874235665271459
+    second: GihArt_183
+  - first:
+      213: 3587056452655536419
+    second: GihArt_184
+  - first:
+      213: -8130520909644848228
+    second: GihArt_185
+  - first:
+      213: -6421978072518166286
+    second: GihArt_186
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GihArt_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 425
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a35edd2bf102e30800000000000000
+      internalID: 4476612882693700235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 457
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf1e6a6be234b40800000000000000
+      internalID: 5423229738302963177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 421
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76742fe193a04110800000000000000
+      internalID: 1243173344331986557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 402
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0795081d549ff0b0800000000000000
+      internalID: -5692668276417128689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 437
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f460dd23d45b1e130800000000000000
+      internalID: 3594353320788821583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 358
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d2b10f55698f40800000000000000
+      internalID: 5731223459530461697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 387
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a675ba09af6b40800000000000000
+      internalID: 5435749138718695621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 361
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf95d39ab122d30800000000000000
+      internalID: 4405113799214496934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 401
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca9978968f81210800000000000000
+      internalID: 1304065224254008395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 264
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc9866d824066d0800000000000000
+      internalID: -2999324176750620893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f9c716f55745000800000000000000
+      internalID: 23772950561595196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 322
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16282bcf5ffe230800000000000000
+      internalID: 3670422687005696470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848827f41b593c160800000000000000
+      internalID: 7044638830912243784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994c41f23b62f3d0800000000000000
+      internalID: -3174356920801932912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 209
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147ba9da8f78a010800000000000000
+      internalID: 1200349535028343824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 220
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f27eff4ea397e40800000000000000
+      internalID: 5654615562360663826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 141
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e59413e8ba7f01d0800000000000000
+      internalID: -3382349860629604890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 84
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807d931812cc1880800000000000000
+      internalID: -8638816576539365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 88
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21ea6e7053ac170800000000000000
+      internalID: 8199424379632620271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 49
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1649be90e3c813fc0800000000000000
+      internalID: -3516875635917351839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aef774f326b9720800000000000000
+      internalID: 2853982812791368225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 77
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b231bb614d2d1a9f0800000000000000
+      internalID: -458853878658821333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d8ad4b21882270800000000000000
+      internalID: 8225966742378699111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4025cc92378bfab20800000000000000
+      internalID: 3147937469317272068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GihArt_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5f3952b3ca4a490800000000000000
+      internalID: -7735868889882167855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

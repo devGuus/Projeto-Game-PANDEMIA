@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Opcao.unity
+    guid: e33d0761d350bc6448725f35532efeb2
+  - enabled: 1
+    path: Assets/Scenes/OpcaoVideo.unity
+    guid: c960ee7dc140a9f47a7095eb72d8116a
+  - enabled: 1
+    path: Assets/Scenes/Primeiro.unity
+    guid: 50d8357bd4c87944d82c59907c5203bd
+  - enabled: 1
+    path: Assets/Scenes/QuartoPlayer.unity
+    guid: 0af062f74ea0b2a49ab5a07fcbb2b86c
+  - enabled: 1
+    path: Assets/Scenes/Corredor.unity
+    guid: 94f435c6d965f1a49a5b35004a43be15
+  - enabled: 1
+    path: Assets/Scenes/QuartoPais.unity
+    guid: f987fc64b55d70748867798793d63125
+  - enabled: 1
+    path: Assets/Scenes/CorredorPais.unity
+    guid: 5eeda28cbeaf55546a8166a6d5b5eac0
+  - enabled: 1
+    path: Assets/Scenes/Banheiro.unity
+    guid: 87f3c94fc824f4540aea463cf4b3fe06
+  - enabled: 1
+    path: Assets/Scenes/Cozinha.unity
+    guid: de98be17a442b9344aca3fb03f1da243
+  - enabled: 1
+    path: Assets/Scenes/DentroCozinha.unity
+    guid: 6381c18ed1be7f34a90be91250348dcd
+  - enabled: 1
+    path: Assets/Scenes/Sala.unity
+    guid: 3232adbb4048ab242bb80b956b36c35a
+  - enabled: 1
+    path: Assets/Scenes/Jogo.unity
+    guid: eeee45203a138ad42bffc42679ae9bc1
+  m_configObjects: {}
